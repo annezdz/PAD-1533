@@ -1,0 +1,9 @@
+C:\Users\mstre\OneDrive\Área de Trabalho\novo\ProdutoPadawan\padawan-turma6-produtos\backend\HBSIS.Padawan.Produtos.Domain\bin\Release\netcoreapp3.1\HBSIS.Padawan.Produtos.Domain.deps.json
+C:\Users\mstre\OneDrive\Área de Trabalho\novo\ProdutoPadawan\padawan-turma6-produtos\backend\HBSIS.Padawan.Produtos.Domain\bin\Release\netcoreapp3.1\HBSIS.Padawan.Produtos.Domain.dll
+C:\Users\mstre\OneDrive\Área de Trabalho\novo\ProdutoPadawan\padawan-turma6-produtos\backend\HBSIS.Padawan.Produtos.Domain\bin\Release\netcoreapp3.1\HBSIS.Padawan.Produtos.Domain.pdb
+C:\Users\mstre\OneDrive\Área de Trabalho\novo\ProdutoPadawan\padawan-turma6-produtos\backend\HBSIS.Padawan.Produtos.Domain\obj\Release\netcoreapp3.1\HBSIS.Padawan.Produtos.Domain.csprojAssemblyReference.cache
+C:\Users\mstre\OneDrive\Área de Trabalho\novo\ProdutoPadawan\padawan-turma6-produtos\backend\HBSIS.Padawan.Produtos.Domain\obj\Release\netcoreapp3.1\HBSIS.Padawan.Produtos.Domain.csproj.CoreCompileInputs.cache
+C:\Users\mstre\OneDrive\Área de Trabalho\novo\ProdutoPadawan\padawan-turma6-produtos\backend\HBSIS.Padawan.Produtos.Domain\obj\Release\netcoreapp3.1\HBSIS.Padawan.Produtos.Domain.AssemblyInfoInputs.cache
+C:\Users\mstre\OneDrive\Área de Trabalho\novo\ProdutoPadawan\padawan-turma6-produtos\backend\HBSIS.Padawan.Produtos.Domain\obj\Release\netcoreapp3.1\HBSIS.Padawan.Produtos.Domain.AssemblyInfo.cs
+C:\Users\mstre\OneDrive\Área de Trabalho\novo\ProdutoPadawan\padawan-turma6-produtos\backend\HBSIS.Padawan.Produtos.Domain\obj\Release\netcoreapp3.1\HBSIS.Padawan.Produtos.Domain.dll
+C:\Users\mstre\OneDrive\Área de Trabalho\novo\ProdutoPadawan\padawan-turma6-produtos\backend\HBSIS.Padawan.Produtos.Domain\obj\Release\netcoreapp3.1\HBSIS.Padawan.Produtos.Domain.pdb

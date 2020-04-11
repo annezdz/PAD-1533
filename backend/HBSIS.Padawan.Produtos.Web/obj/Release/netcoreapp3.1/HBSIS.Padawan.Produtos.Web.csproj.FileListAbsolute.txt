@@ -1,0 +1,5 @@
+C:\Users\mstre\OneDrive\Área de Trabalho\novo\ProdutoPadawan\padawan-turma6-produtos\backend\HBSIS.Padawan.Produtos.Web\obj\Release\netcoreapp3.1\HBSIS.Padawan.Produtos.Web.csprojAssemblyReference.cache
+C:\Users\mstre\OneDrive\Área de Trabalho\novo\ProdutoPadawan\padawan-turma6-produtos\backend\HBSIS.Padawan.Produtos.Web\obj\Release\netcoreapp3.1\HBSIS.Padawan.Produtos.Web.csproj.CoreCompileInputs.cache
+C:\Users\mstre\OneDrive\Área de Trabalho\novo\ProdutoPadawan\padawan-turma6-produtos\backend\HBSIS.Padawan.Produtos.Web\obj\Release\netcoreapp3.1\HBSIS.Padawan.Produtos.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mstre\OneDrive\Área de Trabalho\novo\ProdutoPadawan\padawan-turma6-produtos\backend\HBSIS.Padawan.Produtos.Web\obj\Release\netcoreapp3.1\HBSIS.Padawan.Produtos.Web.AssemblyInfoInputs.cache
+C:\Users\mstre\OneDrive\Área de Trabalho\novo\ProdutoPadawan\padawan-turma6-produtos\backend\HBSIS.Padawan.Produtos.Web\obj\Release\netcoreapp3.1\HBSIS.Padawan.Produtos.Web.AssemblyInfo.cs
