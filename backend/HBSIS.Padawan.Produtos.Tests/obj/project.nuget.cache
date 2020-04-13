@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "I/jpFCaY+i/F5zrtD5+QraMzDoAwhw05IdMkuzS1e6kPi1bC035n7EWOBAJuSGYB9HZsWOxFi7PQbWvI5a5p9g==",
+  "dgSpecHash": "ot+dmgvDZ5XwaUgK4q+KXZKrVTRirGutLIfnmA6KShrxLnJvc7eXQ8J0frYAiXwO5XwsVHXXizasOXUQV8TkkA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\annez\\Downloads\\atualizado\\padawan-turma6-produtos\\backend\\HBSIS.Padawan.Produtos.Tests\\HBSIS.Padawan.Produtos.Tests.csproj",
+  "projectFilePath": "C:\\Users\\annez\\PAD-1533\\backend\\HBSIS.Padawan.Produtos.Tests\\HBSIS.Padawan.Produtos.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\annez\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\annez\\.nuget\\packages\\coverlet.collector\\1.0.1\\coverlet.collector.1.0.1.nupkg.sha512",

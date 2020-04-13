@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\annez\\Downloads\\atualizado\\padawan-turma6-produtos\\backend\\HBSIS.Padawan.Produtos.Domain\\HBSIS.Padawan.Produtos.Domain.csproj": {}
+    "C:\\Users\\annez\\PAD-1533\\backend\\HBSIS.Padawan.Produtos.Domain\\HBSIS.Padawan.Produtos.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\annez\\Downloads\\atualizado\\padawan-turma6-produtos\\backend\\HBSIS.Padawan.Produtos.Domain\\HBSIS.Padawan.Produtos.Domain.csproj": {
+    "C:\\Users\\annez\\PAD-1533\\backend\\HBSIS.Padawan.Produtos.Domain\\HBSIS.Padawan.Produtos.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\annez\\Downloads\\atualizado\\padawan-turma6-produtos\\backend\\HBSIS.Padawan.Produtos.Domain\\HBSIS.Padawan.Produtos.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\annez\\PAD-1533\\backend\\HBSIS.Padawan.Produtos.Domain\\HBSIS.Padawan.Produtos.Domain.csproj",
         "projectName": "HBSIS.Padawan.Produtos.Domain",
-        "projectPath": "C:\\Users\\annez\\Downloads\\atualizado\\padawan-turma6-produtos\\backend\\HBSIS.Padawan.Produtos.Domain\\HBSIS.Padawan.Produtos.Domain.csproj",
+        "projectPath": "C:\\Users\\annez\\PAD-1533\\backend\\HBSIS.Padawan.Produtos.Domain\\HBSIS.Padawan.Produtos.Domain.csproj",
         "packagesPath": "C:\\Users\\annez\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\annez\\Downloads\\atualizado\\padawan-turma6-produtos\\backend\\HBSIS.Padawan.Produtos.Domain\\obj\\",
+        "outputPath": "C:\\Users\\annez\\PAD-1533\\backend\\HBSIS.Padawan.Produtos.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Microsoft\\Xamarin\\NuGet"
         ],
         "configFilePaths": [
           "C:\\Users\\annez\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -49,6 +49,14 @@
             "FluentValidation": {
               "target": "Package",
               "version": "[8.6.2, )"
+            },
+            "Microsoft.AspNet.WebApi.Core": {
+              "target": "Package",
+              "version": "[5.2.7, )"
+            },
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
             }
           },
           "imports": [

@@ -2,7 +2,7 @@
 {
     public abstract class BaseEntity
     {
-        public int ID { get; protected set; }
+        public int ID { get;  set; }
         public bool Deleted { get; protected set; }
 
         public void Delete()

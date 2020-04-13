@@ -13,3 +13,18 @@ C:\Users\mstre\OneDrive\Área de Trabalho\novo\ProdutoPadawan\padawan-turma6-pro
 C:\Users\mstre\OneDrive\Área de Trabalho\novo\ProdutoPadawan\padawan-turma6-produtos\backend\HBSIS.Padawan.Produtos.Infra\obj\Debug\netcoreapp3.1\HBSIS.Padawan.Produtos.Infra.pdb
 C:\Users\mstre\OneDrive\Área de Trabalho\novo\ProdutoPadawan\padawan-turma6-produtos\backend\HBSIS.Padawan.Produtos.Infra\obj\Debug\netcoreapp3.1\HBSIS.Padawan.Produtos.Infra.genruntimeconfig.cache
 C:\Users\mstre\OneDrive\Área de Trabalho\novo\ProdutoPadawan\padawan-turma6-produtos\backend\HBSIS.Padawan.Produtos.Infra\obj\Debug\netcoreapp3.1\HBSIS.Padawan.Produtos.Infra.csproj.CoreCompileInputs.cache
+C:\Users\annez\PAD-1533\backend\HBSIS.Padawan.Produtos.Infra\bin\Debug\netcoreapp3.1\HBSIS.Padawan.Produtos.Infra.deps.json
+C:\Users\annez\PAD-1533\backend\HBSIS.Padawan.Produtos.Infra\bin\Debug\netcoreapp3.1\HBSIS.Padawan.Produtos.Infra.runtimeconfig.json
+C:\Users\annez\PAD-1533\backend\HBSIS.Padawan.Produtos.Infra\bin\Debug\netcoreapp3.1\HBSIS.Padawan.Produtos.Infra.runtimeconfig.dev.json
+C:\Users\annez\PAD-1533\backend\HBSIS.Padawan.Produtos.Infra\bin\Debug\netcoreapp3.1\HBSIS.Padawan.Produtos.Infra.dll
+C:\Users\annez\PAD-1533\backend\HBSIS.Padawan.Produtos.Infra\bin\Debug\netcoreapp3.1\HBSIS.Padawan.Produtos.Infra.pdb
+C:\Users\annez\PAD-1533\backend\HBSIS.Padawan.Produtos.Infra\bin\Debug\netcoreapp3.1\HBSIS.Padawan.Produtos.Domain.dll
+C:\Users\annez\PAD-1533\backend\HBSIS.Padawan.Produtos.Infra\bin\Debug\netcoreapp3.1\HBSIS.Padawan.Produtos.Domain.pdb
+C:\Users\annez\PAD-1533\backend\HBSIS.Padawan.Produtos.Infra\obj\Debug\netcoreapp3.1\HBSIS.Padawan.Produtos.Infra.csprojAssemblyReference.cache
+C:\Users\annez\PAD-1533\backend\HBSIS.Padawan.Produtos.Infra\obj\Debug\netcoreapp3.1\HBSIS.Padawan.Produtos.Infra.csproj.CoreCompileInputs.cache
+C:\Users\annez\PAD-1533\backend\HBSIS.Padawan.Produtos.Infra\obj\Debug\netcoreapp3.1\HBSIS.Padawan.Produtos.Infra.AssemblyInfoInputs.cache
+C:\Users\annez\PAD-1533\backend\HBSIS.Padawan.Produtos.Infra\obj\Debug\netcoreapp3.1\HBSIS.Padawan.Produtos.Infra.AssemblyInfo.cs
+C:\Users\annez\PAD-1533\backend\HBSIS.Padawan.Produtos.Infra\obj\Debug\netcoreapp3.1\HBSIS.Padawan.Produtos.Infra.csproj.CopyComplete
+C:\Users\annez\PAD-1533\backend\HBSIS.Padawan.Produtos.Infra\obj\Debug\netcoreapp3.1\HBSIS.Padawan.Produtos.Infra.dll
+C:\Users\annez\PAD-1533\backend\HBSIS.Padawan.Produtos.Infra\obj\Debug\netcoreapp3.1\HBSIS.Padawan.Produtos.Infra.pdb
+C:\Users\annez\PAD-1533\backend\HBSIS.Padawan.Produtos.Infra\obj\Debug\netcoreapp3.1\HBSIS.Padawan.Produtos.Infra.genruntimeconfig.cache

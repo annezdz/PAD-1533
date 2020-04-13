@@ -10,3 +10,15 @@ C:\Users\mstre\OneDrive\Área de Trabalho\novo\ProdutoPadawan\padawan-turma6-pro
 C:\Users\mstre\OneDrive\Área de Trabalho\novo\ProdutoPadawan\padawan-turma6-produtos\backend\HBSIS.Padawan.Produtos.Domain\bin\Debug\netcoreapp3.1\HBSIS.Padawan.Produtos.Domain.runtimeconfig.dev.json
 C:\Users\mstre\OneDrive\Área de Trabalho\novo\ProdutoPadawan\padawan-turma6-produtos\backend\HBSIS.Padawan.Produtos.Domain\obj\Debug\netcoreapp3.1\HBSIS.Padawan.Produtos.Domain.csproj.CoreCompileInputs.cache
 C:\Users\mstre\OneDrive\Área de Trabalho\novo\ProdutoPadawan\padawan-turma6-produtos\backend\HBSIS.Padawan.Produtos.Domain\obj\Debug\netcoreapp3.1\HBSIS.Padawan.Produtos.Domain.genruntimeconfig.cache
+C:\Users\annez\PAD-1533\backend\HBSIS.Padawan.Produtos.Domain\bin\Debug\netcoreapp3.1\HBSIS.Padawan.Produtos.Domain.deps.json
+C:\Users\annez\PAD-1533\backend\HBSIS.Padawan.Produtos.Domain\bin\Debug\netcoreapp3.1\HBSIS.Padawan.Produtos.Domain.runtimeconfig.json
+C:\Users\annez\PAD-1533\backend\HBSIS.Padawan.Produtos.Domain\bin\Debug\netcoreapp3.1\HBSIS.Padawan.Produtos.Domain.runtimeconfig.dev.json
+C:\Users\annez\PAD-1533\backend\HBSIS.Padawan.Produtos.Domain\bin\Debug\netcoreapp3.1\HBSIS.Padawan.Produtos.Domain.dll
+C:\Users\annez\PAD-1533\backend\HBSIS.Padawan.Produtos.Domain\bin\Debug\netcoreapp3.1\HBSIS.Padawan.Produtos.Domain.pdb
+C:\Users\annez\PAD-1533\backend\HBSIS.Padawan.Produtos.Domain\obj\Debug\netcoreapp3.1\HBSIS.Padawan.Produtos.Domain.csprojAssemblyReference.cache
+C:\Users\annez\PAD-1533\backend\HBSIS.Padawan.Produtos.Domain\obj\Debug\netcoreapp3.1\HBSIS.Padawan.Produtos.Domain.AssemblyInfoInputs.cache
+C:\Users\annez\PAD-1533\backend\HBSIS.Padawan.Produtos.Domain\obj\Debug\netcoreapp3.1\HBSIS.Padawan.Produtos.Domain.AssemblyInfo.cs
+C:\Users\annez\PAD-1533\backend\HBSIS.Padawan.Produtos.Domain\obj\Debug\netcoreapp3.1\HBSIS.Padawan.Produtos.Domain.dll
+C:\Users\annez\PAD-1533\backend\HBSIS.Padawan.Produtos.Domain\obj\Debug\netcoreapp3.1\HBSIS.Padawan.Produtos.Domain.pdb
+C:\Users\annez\PAD-1533\backend\HBSIS.Padawan.Produtos.Domain\obj\Debug\netcoreapp3.1\HBSIS.Padawan.Produtos.Domain.genruntimeconfig.cache
+C:\Users\annez\PAD-1533\backend\HBSIS.Padawan.Produtos.Domain\obj\Debug\netcoreapp3.1\HBSIS.Padawan.Produtos.Domain.csproj.CoreCompileInputs.cache

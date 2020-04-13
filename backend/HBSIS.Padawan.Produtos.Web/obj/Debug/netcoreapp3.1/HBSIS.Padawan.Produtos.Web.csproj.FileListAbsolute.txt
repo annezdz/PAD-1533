@@ -159,3 +159,10 @@ C:\Users\mstre\OneDrive\Área de Trabalho\novo\ProdutoPadawan\padawan-turma6-pro
 C:\Users\mstre\OneDrive\Área de Trabalho\novo\ProdutoPadawan\padawan-turma6-produtos\backend\HBSIS.Padawan.Produtos.Web\bin\Debug\netcoreapp3.1\AutoMapper.dll
 C:\Users\mstre\OneDrive\Área de Trabalho\novo\ProdutoPadawan\padawan-turma6-produtos\backend\HBSIS.Padawan.Produtos.Web\obj\Debug\netcoreapp3.1\HBSIS.Padawan.Produtos.Web.csproj.CoreCompileInputs.cache
 C:\Users\mstre\OneDrive\Área de Trabalho\novo\ProdutoPadawan\padawan-turma6-produtos\backend\HBSIS.Padawan.Produtos.Web\obj\Debug\netcoreapp3.1\HBSIS.Padawan.Produtos.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\annez\PAD-1533\backend\HBSIS.Padawan.Produtos.Web\obj\Debug\netcoreapp3.1\HBSIS.Padawan.Produtos.Web.csprojAssemblyReference.cache
+C:\Users\annez\PAD-1533\backend\HBSIS.Padawan.Produtos.Web\obj\Debug\netcoreapp3.1\HBSIS.Padawan.Produtos.Web.csproj.CoreCompileInputs.cache
+C:\Users\annez\PAD-1533\backend\HBSIS.Padawan.Produtos.Web\obj\Debug\netcoreapp3.1\HBSIS.Padawan.Produtos.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\annez\PAD-1533\backend\HBSIS.Padawan.Produtos.Web\obj\Debug\netcoreapp3.1\HBSIS.Padawan.Produtos.Web.AssemblyInfoInputs.cache
+C:\Users\annez\PAD-1533\backend\HBSIS.Padawan.Produtos.Web\obj\Debug\netcoreapp3.1\HBSIS.Padawan.Produtos.Web.AssemblyInfo.cs
+C:\Users\annez\PAD-1533\backend\HBSIS.Padawan.Produtos.Web\obj\Debug\netcoreapp3.1\HBSIS.Padawan.Produtos.Web.dll
+C:\Users\annez\PAD-1533\backend\HBSIS.Padawan.Produtos.Web\obj\Debug\netcoreapp3.1\HBSIS.Padawan.Produtos.Web.pdb

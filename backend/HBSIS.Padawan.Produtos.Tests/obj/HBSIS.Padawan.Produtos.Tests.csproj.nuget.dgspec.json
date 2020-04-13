@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\annez\\Downloads\\atualizado\\padawan-turma6-produtos\\backend\\HBSIS.Padawan.Produtos.Tests\\HBSIS.Padawan.Produtos.Tests.csproj": {}
+    "C:\\Users\\annez\\PAD-1533\\backend\\HBSIS.Padawan.Produtos.Tests\\HBSIS.Padawan.Produtos.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\annez\\Downloads\\atualizado\\padawan-turma6-produtos\\backend\\HBSIS.Padawan.Produtos.Tests\\HBSIS.Padawan.Produtos.Tests.csproj": {
+    "C:\\Users\\annez\\PAD-1533\\backend\\HBSIS.Padawan.Produtos.Tests\\HBSIS.Padawan.Produtos.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\annez\\Downloads\\atualizado\\padawan-turma6-produtos\\backend\\HBSIS.Padawan.Produtos.Tests\\HBSIS.Padawan.Produtos.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\annez\\PAD-1533\\backend\\HBSIS.Padawan.Produtos.Tests\\HBSIS.Padawan.Produtos.Tests.csproj",
         "projectName": "HBSIS.Padawan.Produtos.Tests",
-        "projectPath": "C:\\Users\\annez\\Downloads\\atualizado\\padawan-turma6-produtos\\backend\\HBSIS.Padawan.Produtos.Tests\\HBSIS.Padawan.Produtos.Tests.csproj",
+        "projectPath": "C:\\Users\\annez\\PAD-1533\\backend\\HBSIS.Padawan.Produtos.Tests\\HBSIS.Padawan.Produtos.Tests.csproj",
         "packagesPath": "C:\\Users\\annez\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\annez\\Downloads\\atualizado\\padawan-turma6-produtos\\backend\\HBSIS.Padawan.Produtos.Tests\\obj\\",
+        "outputPath": "C:\\Users\\annez\\PAD-1533\\backend\\HBSIS.Padawan.Produtos.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Microsoft\\Xamarin\\NuGet"
         ],
         "configFilePaths": [
           "C:\\Users\\annez\\AppData\\Roaming\\NuGet\\NuGet.Config",
