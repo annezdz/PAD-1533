@@ -1,0 +1,50 @@
+﻿using NUnit.Framework;
+using HBSIS.Padawan.Produtos.Application.Services.Fornecedor;
+using HBSIS.Padawan.Produtos.Domain.Interfaces;
+using NSubstitute;
+using HBSIS.Padawan.Produtos.Application.Models;
+using System.Threading.Tasks;
+using AngleSharp.Dom;
+using HBSIS.Padawan.Produtos.Domain.Entities;
+
+namespace HBSIS.Padawan.Produtos.Tests.Unit.Application.Services
+{
+    [TestFixture]
+
+    public class FornecedorTestService
+    {
+        private IFornecedorRepository _fornecedorRepository; ;
+        private FornecedorService _fornecedorService;
+        [SetUp]
+        public void LoadContext()
+        {
+            _fornecedorRepository = Substitute.For<IFornecedorRepository>();
+            _fornecedorService = new FornecedorService(_fornecedorRepository);
+        }
+
+        [Test]
+        public async Task DeveriaCadastrarFuncionario()
+        {
+            var model = new FornecedorRequestModel
+            {
+                RazaoSocial = "Fique Rico LTDA",
+                CNPJ = "72428980000139",
+                NomeFantasia="Muito Rico",
+                Endereco = "Rua dos Milionarios",
+                TelefoneDeContato = "(47)3333-3333",
+                EmailDeContato = "rico@rico.com.br"
+            };
+
+            var response = await _fornecedorService.Create(model);
+
+            await _fornecedorRepository
+                .Received(1)
+                .Create(Entity: Arg.Is<FornecedorEntity>(predicate =>user) user.RazaoSocial == "Fique Rico LTDA"));
+            response.ID.Should().BeGreaterOrEqualTo(expected: 0);
+            response.RazaoSocial.Should().Be(expected: "Fique Rico LTDA");
+        }
+    }
+}
+
+
+  

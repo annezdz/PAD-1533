@@ -38,9 +38,21 @@
           "target": "Package",
           "version": "[16.2.0, )"
         },
+        "Moq": {
+          "target": "Package",
+          "version": "[4.13.1, )"
+        },
         "NSubstitute": {
           "target": "Package",
           "version": "[4.2.1, )"
+        },
+        "NUnit": {
+          "target": "Package",
+          "version": "[3.12.0, )"
+        },
+        "NUnit3TestAdapter": {
+          "target": "Package",
+          "version": "[3.16.1, )"
         },
         "coverlet.collector": {
           "target": "Package",

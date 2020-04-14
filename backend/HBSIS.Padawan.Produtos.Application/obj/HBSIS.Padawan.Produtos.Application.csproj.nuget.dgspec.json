@@ -14,7 +14,7 @@
         "outputPath": "C:\\Users\\annez\\PAD-1533\\backend\\HBSIS.Padawan.Produtos.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet"
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
           "C:\\Users\\annez\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -49,6 +49,18 @@
             "EntityFramework": {
               "target": "Package",
               "version": "[6.4.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.13.1, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.16.1, )"
             }
           },
           "imports": [
@@ -80,7 +92,7 @@
         "outputPath": "C:\\Users\\annez\\PAD-1533\\backend\\HBSIS.Padawan.Produtos.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet"
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
           "C:\\Users\\annez\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -123,6 +135,18 @@
             "Microsoft.AspNetCore.Http.Abstractions": {
               "target": "Package",
               "version": "[2.2.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.13.1, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.16.1, )"
             }
           },
           "imports": [

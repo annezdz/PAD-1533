@@ -58,6 +58,18 @@
         "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
           "target": "Package",
           "version": "[3.1.1, )"
+        },
+        "Moq": {
+          "target": "Package",
+          "version": "[4.13.1, )"
+        },
+        "NUnit": {
+          "target": "Package",
+          "version": "[3.12.0, )"
+        },
+        "NUnit3TestAdapter": {
+          "target": "Package",
+          "version": "[3.16.1, )"
         }
       },
       "imports": [
